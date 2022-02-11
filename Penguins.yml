@@ -1,0 +1,15 @@
+name: "Penguins"
+navbar:
+  title: "Penguins"
+  left:
+    - text: "Penguins_1"
+      href: Penguins_1.html
+    - text: "Penguins_2"
+      href: Penguins_2.html
+output_dir: "."
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true
+    toc_float: true 
